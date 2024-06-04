@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Responsive_Navbar/static/css/main.45dff00d.css",
+    "main.js": "/Responsive_Navbar/static/js/main.24fc088f.js",
+    "index.html": "/Responsive_Navbar/index.html",
+    "main.45dff00d.css.map": "/Responsive_Navbar/static/css/main.45dff00d.css.map",
+    "main.24fc088f.js.map": "/Responsive_Navbar/static/js/main.24fc088f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45dff00d.css",
+    "static/js/main.24fc088f.js"
+  ]
+}
